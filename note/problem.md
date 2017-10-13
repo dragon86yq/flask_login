@@ -1,0 +1,1 @@
+1. 使用request.args.get()可以获得url中的参数，但是使用request.form[]无法获取参数
